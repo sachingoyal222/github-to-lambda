@@ -7,6 +7,7 @@ import os
 import logging
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
+#test github commit
 
 
 s3 = boto3.client('s3')
