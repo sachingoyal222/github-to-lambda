@@ -7,7 +7,7 @@ import os
 import logging
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
-#test github commit
+#test github commit - test branch
 
 
 s3 = boto3.client('s3')
